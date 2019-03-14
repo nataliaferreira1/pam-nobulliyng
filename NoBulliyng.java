@@ -11,6 +11,7 @@ puclic class NoBulliyng {
 	  System.out.println("Passo 7: Se não poder ajudar ela com conselhos, orientar ela procurar um psicólogo.");
 	  System.out.println("Passo 8: Acompanhamento a distancia da pessoa.");
 	  System.out.println("Passo 9: Continuar ajudando ela com desabafos, sabendo que ela pode confiar em você.");
+	  System.out.println("Passo 10: Elogiar pequenas atitudes.");
 
 
 
