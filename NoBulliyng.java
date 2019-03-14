@@ -9,7 +9,7 @@ puclic class NoBulliyng {
 	  System.out.println('Passo 5: Deixar a pessoa desabafar com você, sem diminuir seus problemas.');
 	  System.out.println('Passo 6: Ajuda-lá com o que estiver ao seu alcance.);
 	  System.out.println('Passo 7: Se não poder ajudar ela com conselhos, orientar ela  à procurar um psicólogo.');
-
+	
 
 
 
